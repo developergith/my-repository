@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Nath</h1>
+ <h1 align="center">Hi 👋, I'm Ayush Nath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right"  alt = "coding" width = "400"  src = "
-
-">
+<img align = "right"  alt = "coding" width = "400"  src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developergith&label=Profile%20views&color=0e75b6&style=flat" alt="developergith" /> </p>
 
@@ -27,4 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developergith&show_icons=true&locale=en&layout=compact" alt="developergith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developergith&show_icons=true&locale=en" alt="developergith" /></p>![image](https://github.com/developergith/my-repository/assets/159931547/5a69d4bf-e4ff-4bae-81a2-ddc67638367e)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developergith&show_icons=true&locale=en" alt="developergith" /></p>
+![image](https://github.com/developergith/my-repository/assets/159931547/eb89b967-5710-4b0b-aba5-e35078f13a44)
